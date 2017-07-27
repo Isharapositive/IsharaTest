@@ -1,16 +1,5 @@
 package db;
 
-import java.io.Serializable;
+class A{
 
-class X {
-}
-
-class Z implements Serializable {
-
-    X i = new X();
-}
-
-class A extends Z {
-
-    A r = new A();
 }
